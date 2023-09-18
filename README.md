@@ -9,11 +9,6 @@
 
 - Currently learning **Kotlin and android development**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurPaes&show_icons=true&theme=highcontrast&locale=en" alt="ArthurPaes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurPaes&theme=highcontrast" alt="ArthurPaes" /></p>
-<div style="display: flex; flex-direction: row"> 
-
 </div>
  <img height="177em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPaes&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
 
