@@ -17,8 +17,7 @@
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/> </a></p>
 
 <h3>Stats:</h3>
- <div display="flex" align="flex-start" flex-direction="row">
-    <img height="177em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPaes&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
+ <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPaes&title_color=ffffff&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,freemarker" />
 
-<img height="177em" width="50%" src="https://streak-stats.demolab.com/?user=ArthurPaes&show_icons=true&count_private=true&title_color=ffffff&theme=vue-dark&hide_border=true" />
- </div>
+<img height="177em"  src="https://streak-stats.demolab.com/?user=ArthurPaes&show_icons=true&count_private=true&title_color=ffffff&theme=vue-dark&hide_border=true" />
+
